@@ -9,15 +9,10 @@ public extension Image {
     /// At any call site that requires an image, type `Image.DesignSystem.<esc>`
     struct DesignSystem {
         public static let illustration0 = loadImageFromBundle(name: "illustration0")
-        public static let faces = loadImageFromBundle(name: "faces")
         public static let illustration1 = loadImageFromBundle(name: "illustration1")
-        public static let faces = loadImageFromBundle(name: "faces")
         public static let illustration2 = loadImageFromBundle(name: "illustration2")
-        public static let faces = loadImageFromBundle(name: "faces")
         public static let illustration3 = loadImageFromBundle(name: "illustration3")
-        public static let faces = loadImageFromBundle(name: "faces")
         public static let illustration4 = loadImageFromBundle(name: "illustration4")
-        public static let faces = loadImageFromBundle(name: "faces")
         public static let iconsHomeBlack24Dp1 = loadImageFromBundle(name: "iconsHomeBlack24Dp1")
         public static let iconsAddReactionBlack24Dp2 = loadImageFromBundle(name: "iconsAddReactionBlack24Dp2")
         public static let iconsChatBubbleBlack24Dp = loadImageFromBundle(name: "iconsChatBubbleBlack24Dp")
