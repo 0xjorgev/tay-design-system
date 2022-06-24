@@ -22,5 +22,7 @@ public extension Font {
         public static let 14Link = Font.custom("Montserrat-Regular", size: 14)
         public static let 14Semibold = Font.custom("Montserrat-SemiBold", size: 14)
         public static let 14LinkSemibold = Font.custom("Montserrat-SemiBold", size: 14)
+        public static let 12Regular = Font.custom("Montserrat-Regular", size: 12)
+        public static let 12SemiBold = Font.custom("Montserrat-SemiBold", size: 12)
     }
 }
