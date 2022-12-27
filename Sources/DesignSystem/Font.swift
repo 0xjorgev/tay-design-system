@@ -7,6 +7,7 @@ public extension Font {
     /// Xcode's autocomplete allows for easy discovery of design system fonts.
     /// At any call site that requires a font, type `Font.DesignSystem.<esc>`
     struct DesignSystem {
+        public static let Montserrat64Bold = Font.custom("Montserrat-Bold", size: 64)
         public static let Montserrat24Regular = Font.custom("Montserrat-Regular", size: 24)
         public static let Montserrat24Bold = Font.custom("Montserrat-Bold", size: 24)
         public static let Montserrat24Link = Font.custom("Montserrat-Regular", size: 24)
